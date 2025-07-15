@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+*.log
+.DS_Store
+*.jpg
+*.jpeg
+*.png
+static/uploads/*
+data/who_essential_meds_2023.xlsx
