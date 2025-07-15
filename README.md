@@ -105,14 +105,6 @@ fake_medicine_identifier/
 
 ---
 
-## Sample Inputs
-
-images/test_paracetamol.jpg
-images/bcg_fake_label.jpg
-images/expired_strip.jpg
-
----
-
 ## Data Source & Licensing
 
 This project uses the **WHO Electronic Essential Medicines List (eEML)**:
