@@ -70,6 +70,7 @@ Visit http://127.0.0.1:5000 in your browser.
 
 ## Folder Structure
 
+<pre><code>
 fake_medicine_identifier/
 │
 ├── app.py
@@ -91,6 +92,7 @@ fake_medicine_identifier/
 ├── data/
 │   ├── who_essential_meds_2023.csv            ← original (source)
 │   └── who_essential_meds_2023_cleaned.csv    ← used in code
+</code></pre>
 
 ---
 
